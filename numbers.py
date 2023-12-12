@@ -6,4 +6,4 @@ num4 = int(input())
 sum1 = num1 + num2
 sum2 = num3 + num4
 rez = sum1 / sum2
-print(format(rez,".2"))
+print(format(rez, ".2"))
